@@ -55,7 +55,7 @@ Systems are judged not by how fast they were built, but by how long they stay ea
 
 ## Technology Stack
 
-<div align="center">
+<div>
 
 **Backend & Languages**
 
