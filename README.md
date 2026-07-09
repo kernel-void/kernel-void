@@ -77,7 +77,7 @@ Systems are judged not by how fast they were built, but by how long they stay ea
 
 <br/>
 
-## GitHub Analytics
+<!-- ## GitHub Analytics
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Systems are judged not by how fast they were built, but by how long they stay ea
 
 </div>
 
-<br/>
+<br/> -->
 
 ## Domains of Work
 
